@@ -1,37 +1,26 @@
 ---
 layout: default
-title: CFEngine Examples 
+title: Examples and Tutorials
 published: true
-sorting: 50
+sorting: 5
 tags: [Examples]
 ---
 
-
-* [Basic Examples][CFEngine Basic Examples] includes:
-
-	* Files and Directories
-	* Passwords
-	* Processes
-	* Installing software
-
-* [Intermediate Examples][CFEngine Intermediate Examples] includes:
-
-	* System Adminstration
-	* Access and Security
-	* Hardware Info
-	* Logs
-	* Processes and Services
-	* Users
-	* Templating
-
-* [Advanced Examples][CFEngine Intermediate Examples] includes:
-	* ACL
-	* Editing Files
-	* Software Packages
-	* LDAP, Users and Groups
-	* Databases
-	* Networking
-	* Registry
+* [General Examples][General Examples]
+* [CFEngine Administration Examples][CFEngine Administration Examples]
+* [Measuring Examples][Measuring Examples]
+* [Software Administration Examples][Software Administration Examples]
+* [Commands, Scripts, and Execution Examples][Commands, Scripts, and Execution Examples]
+* [File and Directory Examples][File and Directory Examples]
+* [File Template Examples][File Template Examples]
+* [Database Examples][Database Examples]
+* [Network Examples][Network Examples]
+* [System Security Examples][System Security Examples]
+* [System Information Examples][System Information Examples]
+* [System Administration Examples][System Administration Examples]
+* [System File Examples][System File Examples]
+* [Windows Registry Examples][Windows Registry Examples]
+* [User Management and ACL Examples][User Management and ACL Examples]
 
 * [Tutorials][Tutorials]  
 This section provides examples and explanations of common tasks.

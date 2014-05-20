@@ -1,0 +1,7 @@
+[%CFEngine_include_example(command_or_script_execution.cf)%]
+[%CFEngine_include_example(change_directory_for_command.cf)%]
+[%CFEngine_include_example(commands_example.cf)%]
+[%CFEngine_include_example(execresult_example.cf)%]
+[%CFEngine_include_example(methods.cf)%]
+[%CFEngine_include_example(method_validation.cf)%]
+[%CFEngine_include_example(trigger_classes.cf)%]

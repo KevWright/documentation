@@ -2,34 +2,46 @@
 layout: default
 title: Getting Started 
 published: true
-sorting: 10
+sorting: 2
 ---
 
-A positive experience with CFEngine software means that you are able to install it, try it out, 
-and learn it. We provide that experience here:
+Once you have chosen a version that best suits your needs you can download, install,
+bootstrap, and configure CFEngine. Afterwords, begin writing policy that
+reflects the needs of your organization.
+
+## Choose a CFEngine Version
+
+[CFEngine Enterprise][Enterprise Overview] is a licensed edition for enterprises that plan to use the tool in production environments. The Enterprise edition comes in several variants, including one that can be evaluated for free (up to 25 servers). 
+
+* [Get the Enterprise Edition](https://cfengine.com/evaluate-enterprise)
+
+CFEngine Community, a free GPL v3 open source edition. 
+
+* [Get the Community Edition](https://cfengine.com/inside/myspace)
+
+See also: 
+
+* [Supported Platforms and Versions][Supported Platforms and Versions]
+* [Upgrade Instructions][Upgrade Instructions]
 
 ## Install It
 
-[Install CFEngine][Installing CFEngine] Read about our various editions and install the 
-CFEngine edition that’s best for your organization. CFEngine features an Enterprise version for 
-production environments and a Community (open-source) edition. We offer two ways to install 
-and evaluate Enterprise before you purchase it.
+[%CFEngine_include_markdown(include-install-bootstrap-configure-summary.markdown)%]
+
+See [Install CFEngine][Installing CFEngine] for a more detailed guide on how to get 
+CFEngine up and running for various environments.
 
 ## Try It
 
-*We learn best by doing.* -- Aristotle (paraphrased)
+Walk through the examples, tutorials and how to guides to get a better 
+feel for the power and value of CFEngine:
 
-[Tutorials][Tutorials]  Walk through the tutorials to get a better feel for the power and 
-value of CFEngine. 
+* [Policy Examples and Tutorials][Examples and Tutorials]
+* [The CFEngine Guide][Guide]   
 
-**Examples** Once you understand how CFEngine works, refer to our policy examples 
-to save time as you begin to define the desired end states of your organization’s IT 
-systems. Find these examples on our [website][Policy] and in our github [repository][CFEngine Examples].
+## Learn More
 
-
-## Learn It
-
-[Concepts][Concepts] Learn the concepts of CFEngine such as its architecture and components. 
+Take a look at an [Overview of CFEngine][Overview] such as its architecture and components. 
 Also learn about promise theory and the phases of managing systems with CFEngine. 
 
 [Learning Resources][Learning Resources] In addition to the documentation that's provided on 

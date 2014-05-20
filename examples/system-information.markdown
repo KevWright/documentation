@@ -1,0 +1,6 @@
+[%CFEngine_include_example(change_detection.cf)%]
+[%CFEngine_include_example(hashing_for_change_detection_(tripwire).cf)%]
+[%CFEngine_include_example(check_filesystem_space.cf)%]
+[%CFEngine_include_example(class_match_example.cf)%]
+[%CFEngine_include_example(global_classes.cf)%]
+[%CFEngine_include_example(logging.cf)%]

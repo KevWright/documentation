@@ -1,0 +1,7 @@
+[%CFEngine_include_example(find_mac_address.cf)%]
+[%CFEngine_include_example(client-server_example.cf)%]
+[%CFEngine_include_example(read_from_a_tcp_socket.cf)%]
+[%CFEngine_include_example(set_up_a_pxe_boot_server.cf)%]
+[%CFEngine_include_example(resolver_management.cf)%]
+[%CFEngine_include_example(mount_nfs_filesystem.cf)%]
+[%CFEngine_include_example(unmount_nfs_filesystem.cf)%]
