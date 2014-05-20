@@ -10,6 +10,5 @@ tags: [Examples, Timing, Counting, Measuring]
 
 ## Measurements
 
-```cf3
+
 [%CFEngine_include_example(measurements.cf)%]
-```
