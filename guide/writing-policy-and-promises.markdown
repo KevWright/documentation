@@ -109,8 +109,7 @@ body common control
                   "vcs_update.cf",
 				  "hello_world.cf",
       };
-```
-
+```erf
 With the above information CFEngine will then do the following:
 
 1. The policy server copies the `hello_world promise` defined in `promises.cf` to its own `/var/cfengine/inputs` directory.
